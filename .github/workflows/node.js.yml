@@ -34,5 +34,5 @@ jobs:
         server: react.digitalnoticeboard.biz
         username: reactftp@react.digitalnoticeboard.biz
         password: JRK{P_bJs*eW
-        local-dir: build # Change this to the directory where your React build is located
+        local-dir: build/ # Change this to the directory where your React build is located
         remote-dir: /path/to/remote/directory # Change this to the directory on your server where you want to upload the build
